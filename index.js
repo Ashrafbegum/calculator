@@ -1,1 +1,2 @@
-console.log("Welcomre to my calculator")
+var age=10;
+console.log(age);
